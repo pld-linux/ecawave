@@ -47,7 +47,7 @@ ustawienia efektu multi-operator.
 %{__automake}
 %{__autoconf}
 %configure \
-	--with-qt-libraries=/usr/X11R6/%{_lib} \
+	--with-qt-libraries=/usr/%{_lib} \
 	--with-qt-includes=%{_includedir}/qt
 
 %{__make} \

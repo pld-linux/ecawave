@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://ecasound.seul.org/download/%{name}-%{version}.tar.gz
+# Source0-md5:	72a3245cc9326c47fa3ee6251f3b0a4c
 BuildRequires:	ecasound-devel >= 2.2.0
 BuildRequires:	qt-devel
 Requires:	ecasound >= 2.2.0

@@ -26,7 +26,7 @@ ecasound build options), over 20 file formats, over 30 effect types,
 LADSPA plugins and multi-operator effect presets.
 
 %description -l pl
-ecawave to prosty graficzny edytor plików d¼wiêkosych. Interfejs
+ecawave to prosty graficzny edytor plików d¼wiêkowych. Interfejs
 u¿ytkownika bazuje na bibliotekach Qt, natomiast prawie ca³a
 funkcjonalno¶æ zwi±zana z d¼wiêkiem pochodzi bezpo¶rednio z bibliotek
 ecasound. Poniewa¿ ecawave jest przeznaczony do edycji du¿ych plików

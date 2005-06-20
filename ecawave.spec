@@ -7,6 +7,7 @@ License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://ecasound.seul.org/download/%{name}-%{version}.tar.gz
 # Source0-md5:	19bbd69d52debe851fbfda4438aa5535
+URL:		http://www.eca.cx/ecawave/
 BuildRequires:	automake
 BuildRequires:	autoconf
 BuildRequires:	ecasound-devel >= 2.2.0

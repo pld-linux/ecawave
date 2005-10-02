@@ -2,7 +2,7 @@ Summary:	ecawave - graphical audio file editor
 Summary(pl):	ecawave - graficzny edytor plików d¼wiêkowych
 Name:		ecawave
 Version:	0.6.1
-Release:	4
+Release:	5
 License:	GPL
 Group:		X11/Applications/Sound
 Source0:	http://ecasound.seul.org/download/%{name}-%{version}.tar.gz
@@ -11,6 +11,7 @@ URL:		http://www.eca.cx/ecawave/
 BuildRequires:	automake
 BuildRequires:	autoconf
 BuildRequires:	ecasound-devel >= 2.2.0
+BuildRequires:	libtool
 BuildRequires:	qt-devel
 Requires:	ecasound >= 2.2.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
@@ -44,6 +45,7 @@ ustawienia efektu multi-operator.
 %setup -q
 
 %build
+%{__libtoolize}
 %{__aclocal}
 %{__automake}
 %{__autoconf}

@@ -1,5 +1,5 @@
 Summary:	ecawave - graphical audio file editor
-Summary(pl.UTF-8):   ecawave - graficzny edytor plików dźwiękowych
+Summary(pl.UTF-8):	ecawave - graficzny edytor plików dźwiękowych
 Name:		ecawave
 Version:	0.6.1
 Release:	5

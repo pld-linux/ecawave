@@ -1,5 +1,5 @@
 Summary:	ecawave - graphical audio file editor
-Summary(pl):	ecawave - graficzny edytor plików d¼wiêkowych
+Summary(pl.UTF-8):   ecawave - graficzny edytor plikÃ³w dÅºwiÄ™kowych
 Name:		ecawave
 Version:	0.6.1
 Release:	5
@@ -27,18 +27,18 @@ libraries. This includes JACK, ALSA, OSS, aRts audio I/O (depending on
 ecasound build options), over 20 file formats, over 30 effect types,
 LADSPA plugins and multi-operator effect presets.
 
-%description -l pl
-ecawave to prosty graficzny edytor plików d¼wiêkowych. Interfejs
-u¿ytkownika bazuje na bibliotekach Qt, natomiast prawie ca³a
-funkcjonalno¶æ zwi±zana z d¼wiêkiem pochodzi bezpo¶rednio z bibliotek
-ecasound. Poniewa¿ ecawave jest przeznaczony do edycji du¿ych plików
-d¼wiêkowych, ca³e przetwarzanie jest wykonywane bezpo¶rednio na dysk.
-Wykorzystywane jest proste buforowanie próbek, aby przyspieszyæ
-operacje na plikach. ecawave obs³uguje wszystkie formaty plików
-d¼wiêkowych i algorytmy efektów udostêpnione przez biblioteki
-ecasound. Obejmuje to wej¶cie/wyj¶cie d¼wiêku JACK, ALSA, OSS i aRts
-(zale¿nie od opcji, z jakimi by³o zbudowane ecasound), ponad 20
-formatów plików, ponad 30 typów efektów, wtyczki LADSPA oraz
+%description -l pl.UTF-8
+ecawave to prosty graficzny edytor plikÃ³w dÅºwiÄ™kowych. Interfejs
+uÅ¼ytkownika bazuje na bibliotekach Qt, natomiast prawie caÅ‚a
+funkcjonalnoÅ›Ä‡ zwiÄ…zana z dÅºwiÄ™kiem pochodzi bezpoÅ›rednio z bibliotek
+ecasound. PoniewaÅ¼ ecawave jest przeznaczony do edycji duÅ¼ych plikÃ³w
+dÅºwiÄ™kowych, caÅ‚e przetwarzanie jest wykonywane bezpoÅ›rednio na dysk.
+Wykorzystywane jest proste buforowanie prÃ³bek, aby przyspieszyÄ‡
+operacje na plikach. ecawave obsÅ‚uguje wszystkie formaty plikÃ³w
+dÅºwiÄ™kowych i algorytmy efektÃ³w udostÄ™pnione przez biblioteki
+ecasound. Obejmuje to wejÅ›cie/wyjÅ›cie dÅºwiÄ™ku JACK, ALSA, OSS i aRts
+(zaleÅ¼nie od opcji, z jakimi byÅ‚o zbudowane ecasound), ponad 20
+formatÃ³w plikÃ³w, ponad 30 typÃ³w efektÃ³w, wtyczki LADSPA oraz
 ustawienia efektu multi-operator.
 
 %prep
